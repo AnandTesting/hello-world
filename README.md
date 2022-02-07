@@ -4,4 +4,4 @@ This is an example repository for the Git tutoial
 
 This repository is built step by step in the tutorial
 
-This is a code change.
+This is a new change.
